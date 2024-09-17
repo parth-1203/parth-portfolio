@@ -13,7 +13,7 @@ const Hero = () => {
         <div className="border-b border-neutral-900 pb-4 lg:mb-35">
 
             <div className="flex flex-wrap justify-center text-center">
-                <div className="w-full lg:w-1/2">
+                <div className="w-full lg:w-2/3">
                     <div className="flex flex-col items-center">
                         <motion.h1 
                         variants={container(0.2)}
@@ -33,7 +33,7 @@ const Hero = () => {
                         variants={container(0.6)}
                         initial = "hidden"
                         animate = "visible"
-                        className="my-2 max-w-xl py-5 text-lg font-light font-fm">
+                        className="my-2 max-w-8xl py-5 text-lg font-light font-fm">
                             {HERO_CONTENT}
                         </motion.p>
                     </div>

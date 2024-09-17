@@ -1,10 +1,10 @@
-import project1 from "../assets/projects/project-1.jpg";
+import airbnb from "../assets/projects/airbnb.png";
 import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.png";
 import project6 from "../assets/projects/project-6.png";
-import project7 from "../assets/projects/project-7.png";
+import befit from "../assets/projects/befit.png";
 
 export const HERO_CONTENT = `I am a passionate and driven Software Engineer with a strong focus on front-end development and a growing interest in AI and machine learning. Through my internship and academic projects, I've gained hands-on experience in technologies like React, Flask, and Python, while also developing a solid understanding of web development and data analysis. With a knack for problem-solving and an eagerness to learn, I'm constantly looking for opportunities to create innovative, user-centric solutions.`;
 
@@ -51,7 +51,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Booking Web-application (Airbnb Clone)",
-    image: project3,
+    image: airbnb,
     description:
       "A full-stack Airbnb clone implementing user authentication, property listing/search, and a booking system. Features a RESTful API for efficient data management.",
     technologies: ["HTML", "CSS", "JavaScript", "Node.JS", "Express.js"],
@@ -104,7 +104,7 @@ export const PROJECTS = [
   },
   {
     title: "BeFit",
-    image: project6,
+    image: befit,
     description:
       "A full-stack gym website featuring a responsive interface, form validation, and seamless navigation. Includes a payments page with backend-validated payment confirmation.",
     technologies: [
