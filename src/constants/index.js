@@ -82,6 +82,14 @@ export const PROJECTS = [
   //   // link: "https://github.com/parth-1203/Notes-Summarizer",
   // },
   {
+    title: "Travel Buddy Finder",
+    image: project1,
+    description:
+      "A fully functional website to address the challenges of solo travel, high costs, and missed opportunities for meaningful connections.",
+    technologies: ["EJS", "CSS", "Node.js", "MongoDB", "Express.JS", "mySQL", "Passport.js"],
+    link: "https://github.com/parth-1203/Travel-Buddy-Finder",
+  },
+  {
     title: "Disinformation Detection",
     image: project2,
     description:
@@ -100,7 +108,7 @@ export const PROJECTS = [
       "Count Vectorization",
       "Machine Learning",
     ],
-    link: "https://github.com/sp2003s/music-recommendation-system-using-vectorization",
+    link: "https://github.com/parth-1203/music_recommender_system",
   },
   {
     title: "BeFit",
