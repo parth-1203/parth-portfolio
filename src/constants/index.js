@@ -4,6 +4,7 @@ import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.png";
 import project6 from "../assets/projects/project-6.png";
+import project1 from "../assets/projects/project-1.jpg";
 import befit from "../assets/projects/befit.png";
 
 export const HERO_CONTENT = `I am a passionate and driven Software Engineer with a strong focus on front-end development and a growing interest in AI and machine learning. Through my internship and academic projects, I've gained hands-on experience in technologies like React, Flask, and Python, while also developing a solid understanding of web development and data analysis. With a knack for problem-solving and an eagerness to learn, I'm constantly looking for opportunities to create innovative, user-centric solutions.`;
